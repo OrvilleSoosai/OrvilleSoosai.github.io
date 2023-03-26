@@ -15,8 +15,13 @@ body {
 
 h1 {
   font-size: 25px
-    
 }
+
+img {
+  margin: auto;
+  padding: 65px;
+  width: 50%;
+  }
 
 h5 {
   display: inline-block;
